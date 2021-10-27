@@ -591,7 +591,7 @@ h6 {
 --------------------------------*/
  
 #services {
-  block-size: 670px;
+  block-size: 680px;
   padding: 60px 0 100px 0;
   box-shadow: inset 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
   background: url("../img/index/white-neural-network-right.png") no-repeat center center fixed;
@@ -949,6 +949,7 @@ h6 {
 /* why us Section
 --------------------------------*/
 #why-us {
+  
   padding: 60px 0 40px ;
   background: url("../img/index/white-neural-network-right.png") no-repeat center center fixed;
   background-size: cover;
@@ -1820,6 +1821,27 @@ h6 {
   }
 }
 
+@media (min-width: 992px) {
+  #services .box1 h4 {
+    width: 80%;
+  }
+}
+
+@media (max-width: 992px) {
+  #services{
+    height: 100%;
+  }
+}
+
+#services .box1{
+  text-align: center;
+}
+
+#services .testimonial-item h4,
+#services .testimonial-item p {
+    margin-left: 0;
+}
+
 @media (max-width: 991px) {
   #header {
     height: 60px;
@@ -1892,5 +1914,21 @@ h6 {
 @media (max-width: 574px) {
   #intro {
     padding: 100px 0 20px 0;
+  }
+}
+
+
+
+@media (max-width: 574px) {
+  #team .member {
+    float: none;
+    margin: auto;
+  }
+  #team .team-item {
+    text-align: center;
+  }
+  #team .member-info-content a,
+  #team .member-info-content h4 {
+  margin-left: 0;
   }
 }
