@@ -673,14 +673,14 @@ h6 {
   margin: 0 10px 10px 10px;
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
-  background: url("../img/index/services\ -\ Automatización.png") no-repeat center;
+  background: url("../img/index/Automatizacion.png") no-repeat center;
   background-color: #fff;
 }
 
 #services .box1:hover {
   -webkit-transform: translateY(-5px);
   transform: translateY(-5px);
-  background: url("../img/index/services\ -\ Automatización.png") no-repeat center;
+  background: url("../img/index/Automatizacion\ -\ copia.png") no-repeat center;
 }
 
 #services .box1 .title a {
@@ -688,7 +688,7 @@ h6 {
 }
 
 #services .box1:hover .title a {
-  color: #9814eb;
+  color: #ffffff;
 }
 
 #services .box1 .description {
@@ -720,14 +720,14 @@ h6 {
   margin: 0 10px 10px 10px;
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
-  background: url("../img/index/Integridad\ -\ gris.png") no-repeat center;
+  background: url("../img/index/opti\ \(2\).png") no-repeat center;
   background-color: #fff;
 }
 
 #services .box2:hover {
   -webkit-transform: translateY(-5px);
   transform: translateY(-5px);
-  background: url("../img/index/services\ -\ Integridad.png") no-repeat center;
+  background: url("../img/index/opti.png") no-repeat center;
 }
 
 #services .box2 .title a {
@@ -735,7 +735,7 @@ h6 {
 }
 
 #services .box2:hover .title a {
-  color: #9814eb;
+  color: #ffffff;
 }
 
 #services .box2 .description {
@@ -767,14 +767,14 @@ h6 {
   margin: 0 10px 10px 10px;
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
-  background: url("../img/index/services\ -\ Automatización\ -\ gris.png");
+  background: url("../img/index/Auditoria\ \(2\).png");
   background-color: #fff;
 }
 
 #services .box3:hover {
   -webkit-transform: translateY(-5px);
   transform: translateY(-5px);
-  background: url("../img/index/services\ -\ Automatización.png");
+  background: url("../img/index/Auditoria.png");
 }
 
 #services .box3 .title a {
@@ -782,7 +782,7 @@ h6 {
 }
 
 #services .box3:hover .title a {
-  color: #4B0C72;
+  color: #ffffff;
 }
 
 #services .box3 .description {
@@ -800,7 +800,7 @@ h6 {
   /*margin-left: 40px;*/
   line-height: 24px;
   margin-bottom: 0;
-  color: #000000;
+  color: #ffffff;
   display: block;
 }
 
@@ -814,14 +814,14 @@ h6 {
   margin: 0 10px 10px 10px;
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
-  background: url("../img/index/services\ -\ Automatización\ -\ gris.png");
+  background: url("../img/index/seguridad\ \(2\).png");
   background-color: #fff;
 }
 
 #services .box4:hover {
   -webkit-transform: translateY(-5px);
   transform: translateY(-5px);
-  background: url("../img/index/services\ -\ Automatización.png");
+  background: url("../img/index/seguridad.png");
 }
 
 #services .box4 .title a {
@@ -829,7 +829,7 @@ h6 {
 }
 
 #services .box4:hover .title a {
-  color: #4B0C72;
+  color: #ffffff;
 }
 
 #services .box4 .description {
@@ -847,7 +847,7 @@ h6 {
   /*margin-left: 40px;*/
   line-height: 24px;
   margin-bottom: 0;
-  color: #000000;
+  color: #ffffff;
   display: block;
 }
 
@@ -861,14 +861,14 @@ h6 {
   margin: 0 10px 10px 10px;
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
-  background: url("../img/index/services\ -\ Automatización\ -\ gris.png");
+  background: url("../img/index/full\ \(2\).png");
   background-color: #fff;
 }
 
 #services .box5:hover {
   -webkit-transform: translateY(-5px);
   transform: translateY(-5px);
-  background: url("../img/index/services\ -\ Automatización.png");
+  background: url("../img/index/full.png");
 }
 
 #services .box5 .title a {
@@ -876,7 +876,7 @@ h6 {
 }
 
 #services .box5:hover .title a {
-  color: #4B0C72;
+  color: #ffffff;
 }
 
 #services .box5 .description {
@@ -894,7 +894,7 @@ h6 {
   /*margin-left: 40px;*/
   line-height: 24px;
   margin-bottom: 0;
-  color: #000000;
+  color: #ffffff;
   display: block;
 }
 
@@ -908,14 +908,14 @@ h6 {
   margin: 0 10px 10px 10px;
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
-  background: url("../img/index/services\ -\ Automatización\ -\ gris.png");
+  background: url("../img/index/Integridad\ -\ gris.png");
   background-color: #fff;
 }
 
 #services .box6:hover {
   -webkit-transform: translateY(-5px);
   transform: translateY(-5px);
-  background: url("../img/index/services\ -\ Automatización.png");
+  background: url("../img/index/services\ -\ Integridad.png");
 }
 
 #services .box6 .title a {
@@ -923,7 +923,7 @@ h6 {
 }
 
 #services .box6:hover .title a {
-  color: #4B0C72;
+  color: #ffffff;
 }
 
 #services .box6 .description {
@@ -941,7 +941,7 @@ h6 {
   /*margin-left: 40px;*/
   line-height: 24px;
   margin-bottom: 0;
-  color: #000000;
+  color: #ffffff;
   display: block;
 }
 
@@ -1833,9 +1833,7 @@ h6 {
   }
 }
 
-#services .box1{
-  text-align: center;
-}
+
 
 #services .testimonial-item h4,
 #services .testimonial-item p {
