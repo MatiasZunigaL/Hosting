@@ -517,7 +517,7 @@ h6 {
 #about .about-container .icon-box {
   background: #fff;
   background-size: cover;
-  padding: 0 0 30px 0;
+  padding: 0 0 60px 0;
 }
 
 #about .about-container .icon-box .icon {
@@ -673,7 +673,7 @@ h6 {
   margin: 0 10px 10px 10px;
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
-  background: url("../img/index/services\ -\ Automatización\ -\ gris.png") no-repeat center;
+  background: url("../img/index/services\ -\ Automatización.png") no-repeat center;
   background-color: #fff;
 }
 
@@ -688,7 +688,7 @@ h6 {
 }
 
 #services .box1:hover .title a {
-  color: #4B0C72;
+  color: #9814eb;
 }
 
 #services .box1 .description {
@@ -706,7 +706,7 @@ h6 {
   /*margin-left: 40px;*/
   line-height: 24px;
   margin-bottom: 0;
-  color: #000000;
+  color: #ffffff;
   display: block;
 }
 
@@ -753,7 +753,7 @@ h6 {
   /*margin-left: 40px;*/
   line-height: 24px;
   margin-bottom: 0;
-  color: #000000;
+  color: #ffffff;
   display: block;
 }
 
